@@ -2,6 +2,10 @@
 
 Aplikasi mobile buat sistem antrian klinik yang dibuat pake Flutter. Jadi ada 2 role nih, pasien sama admin. Pasien bisa ambil antrian, admin bisa manage semuanya.
 
+<img width="3840" height="2160" alt="Klinik-Antrian" src="https://github.com/user-attachments/assets/e6273566-e194-4fa9-bd24-8f80dc454e03" />
+
+ini repo buat backend : https://github.com/jayzajie/klinik-antrian_backend
+
 ## Tech Stack
 
 ### Core Framework
